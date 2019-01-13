@@ -4,7 +4,7 @@
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="SpringMVCDemo" />
+          <element id="module-output" name="SpringMVCMyBatis" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Maven: junit:junit:4.11" />
@@ -41,7 +41,7 @@
           <element id="library" level="project" name="Maven: commons-collections:commons-collections:3.0" />
         </element>
       </element>
-      <element id="javaee-facet-resources" facet="SpringMVCDemo/web/Web" />
+      <element id="javaee-facet-resources" facet="SpringMVCMyBatis/web/Web" />
     </root>
   </artifact>
 </component>
