@@ -25,7 +25,7 @@
     <slf4j.version>1.6.6</slf4j.version>
     <log4j.version>1.2.12</log4j.version>
     <junit.version>4.11</junit.version>
-    <jackson.version>2.5.0</jackson.version>
+    <jackson.version>2.8.11</jackson.version>
     <tomcat.jdbc.version>7.0.53</tomcat.jdbc.version>
     <jstl.version>1.2</jstl.version>
     <aspectj.version>1.6.12</aspectj.version>
